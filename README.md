@@ -30,7 +30,6 @@ I work primarily with Java, Spring Boot, REST APIs, Kafka, SQL, and distributed 
 ### Databases
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
 ### Cloud & DevOps
