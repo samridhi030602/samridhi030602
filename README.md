@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi, I'm Samridhi Arora 👋
 
-<!--
-**samridhi030602/samridhi030602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Software Engineer | Java | Spring Boot | Microservices
 
-Here are some ideas to get you started:
+Software Engineer with 2 years of experience building backend systems
+using Java, Spring Boot, REST APIs, Kafka, SQL, and distributed systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on backend modernization and production-grade
+microservices in the financial services domain.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- Java
+- Python
+- C#
+- C/C++
+
+**Backend**
+- Spring Boot
+- Spring Security
+- Spring WebFlux
+- Spring MVC
+- JPA/Hibernate
+- REST APIs
+- Microservices
+
+**Messaging & Distributed Systems**
+- Apache Kafka
+- Event-Driven Architecture
+- Asynchronous Processing
+
+**Databases**
+- SQL Server
+- PostgreSQL
+- SQL
+- Liquibase
+
+**Cloud & DevOps**
+- Kubernetes
+- OpenShift
+- Docker
+- Jenkins
+- GitHub Actions
+- CI/CD
+
+**Testing**
+- JUnit
+- Mockito
+- Playwright
+
+---
+
+## 💻 What I Work On
+
+- Building Java/Spring Boot backend services and REST APIs
+- Designing microservices and event-driven systems using Kafka
+- Database design, indexing, and query optimization
+- Authentication and authorization using OAuth2, PKCE, and RBAC
+- Building and deploying services on Kubernetes/OpenShift
+- Writing automated tests and improving backend reliability
+
+---
+
+
+
+## 📫 Connect With Me
+
+- LinkedIn: [Samridhi Arora](https://www.linkedin.com/in/samridhi-arora-975531198/)
+- Email: arorasamridhi620@gmail.com
+- LeetCode: [samridhi03](https://leetcode.com/u/samridhi03/)
