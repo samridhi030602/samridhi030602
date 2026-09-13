@@ -61,14 +61,5 @@ I work primarily with Java, Spring Boot, REST APIs, Kafka, SQL, and distributed 
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samridhi_Arora-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-samridhi03-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR_LEETCODE_URL)
-
-[![Email](https://img.shields.io/badge/Email-arorasamridhi620%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arorasamridhi620@gmail.com)
-
----
-
-### 📊 GitHub Stats
-
-![Samridhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samridhi_Arora-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samridhi-arora-975531198/) [![LeetCode](https://img.shields.io/badge/LeetCode-samridhi03-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/samridhi03/)
+ [![Email](https://img.shields.io/badge/Email-arorasamridhi620%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arorasamridhi620@gmail.com)
